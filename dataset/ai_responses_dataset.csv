@@ -1,0 +1,4 @@
+Prompt,Response_A,Response_B,Better_Response,Reason
+Explain what machine learning is.,Machine learning is a field of artificial intelligence where computers learn from data.,Machine learning is when computers are programmed manually to do tasks.,A,Response B is incorrect because machine learning involves learning from data.
+What is the capital of Slovakia?,The capital of Slovakia is Bratislava.,The capital of Slovakia is Prague.,A,Response B is factually incorrect.
+Explain what a solar eclipse is.,A solar eclipse happens when the Moon passes between Earth and the Sun.,A solar eclipse happens when Earth blocks the Sun.,A,Response B is incorrect.
